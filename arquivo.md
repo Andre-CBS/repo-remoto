@@ -1,1 +1,1 @@
-commit remoto que adiciona o arquivo.md
+conteúdo do arquivo "commitado" na branch remota.
